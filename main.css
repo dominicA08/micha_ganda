@@ -1,0 +1,23 @@
+body{
+	margin:0;
+	padding: 0;
+	background:#000;
+}
+
+p {
+	font-size:8px;
+	line-height:8px;
+	text-align:justify;
+	-webkit-background-size:cover;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background: url(IMAGE.jpg) no-repeat center/cover;
+	background-attachment: fixed;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	-ms-background-clip: text;
+	-o-background-clip: text;
+	-webkit-text-fill-color: rgba(225, 225, 255, 0);
+}
